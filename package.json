@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Creating an Amazon-like storefront with MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsambrose26/bamazon_prime.com.git"
+  },
+  "keywords": [
+    "node",
+    "modules",
+    "npm"
+  ],
+  "author": "Derek Ambrose",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dsambrose26/bamazon_prime.com/issues"
+  },
+  "homepage": "https://github.com/dsambrose26/bamazon_prime.com#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
