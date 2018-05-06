@@ -1,5 +1,7 @@
 # bamazon (it's amazon-like)
+
 Georgia Tech Coding Bootcamp Homework Week 12 
+
 # Node.js & MySQL
 
 ## Overview
@@ -8,16 +10,18 @@ Georgia Tech Coding Bootcamp Homework Week 12
 
 2. Take in orders from customers and deplete stock from the store's inventory 
 
-3. 		Bonus: 
-			* Track product sales
-			* Summarize the highest-grossing departments
+	Bonus: 
+	* Track product sales 
+	* Summarize the highest-grossing departments
 
 4. Save and require the MySQL and Inquirer npm packages 
 
 ## Submission Guide
 
 1. Deploy to GitHub
+
 2. CLI App, so no Heroku
+
 3. Include screenshots of working app with no bugs in a `README.md` file
 
 ## Instructions
@@ -49,11 +53,11 @@ Georgia Tech Coding Bootcamp Homework Week 12
    * The first should ask them the ID of the product they would like to buy
    
    * The second message should ask how many units of the product they would like to buy
+   
+ 7. After customer pays: 
 
-7. After customer pays: 
-
-	* Make app check selected product inventory 
-
+   * Make app check selected product inventory
+   
    * If no inventory, log phrase and prevent the order 
    
    * If inventory _is_ available, then fulfill order; this means,  update SQL database and reflect remaining quantity
