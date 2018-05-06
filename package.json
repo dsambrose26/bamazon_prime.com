@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dsambrose26/bamazon_prime.com#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "file:node_modules/express"
   }
 }
