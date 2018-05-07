@@ -4,6 +4,9 @@ Georgia Tech Coding Bootcamp Homework Week 12
 
 # Node.js & MySQL
 
+![bamazon](https://user-images.githubusercontent.com/34081511/39714393-ea0e1fc8-51f7-11e8-80d2-26ecd0da387f.png)
+
+
 ## Overview
 
 1. Creating an Amazon-like storefront with MySQL
