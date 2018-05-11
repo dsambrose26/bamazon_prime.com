@@ -1,9 +1,5 @@
-# bamazon (it's amazon-like)
-
-Georgia Tech Coding Bootcamp Homework Week 12 
-
-# Node.js & MySQL
-
+## Node.js & MySQL - (the README is the project, scroll down)
+Georgia Tech Continuing Ed. Week 12 Project 
 ![screen shot 2018-05-10 at 7 27 15 pm](https://user-images.githubusercontent.com/34081511/39899166-63d39cd8-5488-11e8-8442-cf5ab29cc2de.png)
 
 
