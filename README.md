@@ -1,5 +1,4 @@
-## Node.js & MySQL - (the README is the project, scroll down)
-Georgia Tech Continuing Ed. Week 12 Project 
+## Node.js & MySQL - #### (the README is the project, scroll down)
 
 ![screen shot 2018-05-10 at 7 27 15 pm](https://user-images.githubusercontent.com/34081511/39899166-63d39cd8-5488-11e8-8442-cf5ab29cc2de.png)
 
@@ -72,4 +71,6 @@ Georgia Tech Continuing Ed. Week 12 Project
 
 More functionality could be added at a later date to share the scope of this project to potential employers and peers.
 
--Derek Ambrose
+##### [Download my Resume](https://dsambrose26.github.io/derek_ambroseResume/ "pdfResume")    
+##### [derekambrose@outlook.com](mailto:derekambrose@outlook.com)
+
